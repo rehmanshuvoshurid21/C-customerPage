@@ -8,7 +8,7 @@ namespace customerPage
 {
     internal static class Program
     {
-        //dfgdfgdfgdfg
+       
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
