@@ -58,13 +58,27 @@ namespace customerPage
         }
 
         private void btnSearch_Click(object sender, EventArgs e)
-        {
-            
+        { 
 
 
         }
 
         private void btnAddCustomer_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
